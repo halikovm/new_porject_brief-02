@@ -1,0 +1,9 @@
+.table__heading{
+  font-size: 24px;
+  line-height: 1.15;
+  font-weight: 600;
+  }
+
+  .table__cell:nth-of-type(4n){
+    margin-right: 0;
+  }
