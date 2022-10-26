@@ -1,6 +1,10 @@
 .header__link{
   color: #2f80ed;
-  z-index: 11;
+
   text-decoration: none;
+  font-family: 'inter', Arial, sans-serif;
   font-weight: normal;
+  font-size: 18px;
+  line-height:25px;
+
   }

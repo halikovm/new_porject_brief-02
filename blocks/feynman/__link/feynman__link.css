@@ -1,0 +1,14 @@
+.feynman__link{
+
+  position: absolute;
+  right: 48px;
+  top: 50%;
+  font-family: 'inter', Arial, sans-serif;
+  font-size: 36px;
+  font-weight: normal;
+  line-height: 51px;
+  text-align: center;
+  margin-top: 70px;
+  color: #2f80ed;
+  text-decoration: none;
+}
